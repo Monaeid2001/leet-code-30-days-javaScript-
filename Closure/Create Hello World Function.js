@@ -4,6 +4,6 @@ let createHelloWorld=function(){
     }
 };
 /*
-let f = createHelloWorld;
+const f = createHelloWorld;
 f();
 */
